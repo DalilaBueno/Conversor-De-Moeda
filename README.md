@@ -1,4 +1,4 @@
-﻿# Conversor De Moedas
+﻿# Conversor De Moeda
 ## Repositório para armazenar o Exercício 2 - Programação Web. 
 ### Professor Fausto Cintra
 1. Crie um formulário e coloque nele um input numérico com o label "Valor em reais".
